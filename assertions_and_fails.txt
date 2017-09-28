@@ -1,0 +1,21 @@
+//list of assertions:
+		//assertTrue( +[string_to_report], boolean );
+		//assertFalse( +[string_to_report], boolean );
+		
+		//assertNull( +[string_to_report], object);
+		//assertNotNull( +[string_to_report], object);
+
+		//assertSame( +[string_to_report], object1, object2);
+		//assertNotSame( +[string_to_report], object1, object2);
+	
+		//assertEquals( +[string_to_report,_back],  variable1, variable2, +[allowed_discrepancy:float or double comparison only]);
+		//variables in above can be any of:
+					//                  object, string, boolean, byte, char, short, int, long, float, double,
+	
+		//  +[param] has been used to show optional parameters.
+	
+	//assertArrayEquals( +[String_to_report], array1, array2);
+	
+	
+	//fail() or fail(string) can be used to report error, i.e. "not written this yet".
+	
